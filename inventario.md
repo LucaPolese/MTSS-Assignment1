@@ -5,4 +5,5 @@
 [schede_madri.md](componenti/schede_madri.md)
 ## periferiche
 [tastiere.md](periferiche/tastiere.md) \
+[mouse.md](periferiche/mouse.md) \
 Elettronica Padovana
